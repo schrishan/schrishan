@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sadith Chrishantha!
 
 Welcome to my GitHub profile! I'm a seasoned front-end developer with a passion for crafting elegant and efficient web solutions. With over a decade of experience in the industry, I specialize in a wide array of front-end and web development technologies, frameworks, and best practices. Here's a glimpse into my world of code:
 
