@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a seasoned front-end developer with a passion 
 - **Git**: Version control for collaborative and efficient code management.
 - **Jira**: Project management for tracking and organizing development tasks.
 - **Azure**: Cloud services for deploying and managing applications.
-- **Jest**: Testing JavaScript code to ensure functionality and reliability.
+- **Jest & Vitest**: Testing JavaScript code to ensure functionality and reliability.
 - **Cypress**: End-to-end testing for robust web applications.
 - **Adobe XD & Figma**: UI/UX design tools for creating visually appealing interfaces.
 
